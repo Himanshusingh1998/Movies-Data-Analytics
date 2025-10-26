@@ -1,17 +1,17 @@
 # Movies-Data-Analytics
 
-Imported and read the movie dataset using pandas.
+1. Imported and read the movie dataset using pandas.
 
-Inspected the dataframe – including shape, column types, and null values.
+2. Inspected the dataframe – including shape, column types, and null values.
 
-Cleaned the data – handled missing values and removed duplicates.
+3. Cleaned the data – handled missing values and removed duplicates.
 
-Engineered new features – created columns like profit and ROI.
+4. Engineered new features – created columns like profit and ROI.
 
-Filtered and subsetted the data based on criteria like genre, rating, and director.
+5. Filtered and subsetted the data based on criteria like genre, rating, and director.
 
-Performed univariate and bivariate analysis to uncover trends in budget, genre, ratings, and box office performance.
+6. Performed univariate and bivariate analysis to uncover trends in budget, genre, ratings, and box office performance.
 
-Performed statistical analysis – used correlation and comparisons across numerical variables.
+7. Performed statistical analysis – used correlation and comparisons across numerical variables.
 
-Visualized data with bar plots, histograms, and heatmaps using Seaborn and Matplotlib.
+8. Visualized data with bar plots, histograms, and heatmaps using Seaborn and Matplotlib.
